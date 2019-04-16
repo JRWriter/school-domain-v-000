@@ -1,2 +1,2 @@
 # code here!
-school = School.new("Bayside High School")
+  attr_accessor :roster, :school_name
